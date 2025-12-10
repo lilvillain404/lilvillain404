@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/lilvillain404/lilvillain404/blob/main/gif.gif/>
+<img src=https://github.com/lilvillain404/lilvillain404/blob/main/gif.gif/ width="600">
 </div>
   
 <h1 align="center"><strong>Привет, меня зовут Анастасия! 👋</strong></h1>
