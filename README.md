@@ -20,6 +20,7 @@
 <div>
   <img src="https://img.icons8.com/color/64/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" style="margin:5px; border-radius:12px; background:#f8f9fa; padding:8px;"/>
   <img src="https://img.icons8.com/color/64/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" style="margin:5px; border-radius:12px; background:#f8f9fa; padding:8px;"/>
+  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" title="Python" style="margin:5px; border-radius:12px; background:#f8f9fa; padding:8px;"/>
   <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="Power BI" title="Power BI" style="margin:5px; border-radius:12px; background:#f8f9fa; padding:8px;"/>
   <img src="https://img.icons8.com/color/64/000000/figma--v1.png" alt="Figma" title="Figma" style="margin:5px; border-radius:12px; background:#f8f9fa; padding:8px;"/>
 </div>
