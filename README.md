@@ -17,11 +17,6 @@
   
 ### 🛠 Мой стек и инструменты
 
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="35" height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" />
-***
 
 ### 📚 Образование и курсы
 
@@ -33,9 +28,9 @@
 
 ***
 ### 💻 Прогресс по SQL на LeetCode
-Решила систематически практиковать SQL. Здесь буду фиксировать прогресс в решении задач на LeetCode.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lil_villain?theme=light&font=Karla)
+Решила систематически практиковать SQL. Здесь буду фиксировать прогресс в решении задач на LeetCode.
+(Раздел готовится)
 
 ### 📩 Как со мной связаться?
 
