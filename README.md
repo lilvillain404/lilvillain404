@@ -50,6 +50,12 @@
 
 Данный раздел готовится
 
+| Сложность | Решено | Всего | Прогресс |
+|:---:|:---:|:---:|:---:|
+| **🟢 Easy** |  |  |  |
+| **🟡 Medium** |  |  |  |
+| **🔴 Hard** |  |  |  |
+
 ### 📩 Как со мной связаться?
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thesmallvillain)
