@@ -5,7 +5,7 @@
 <h1 align="center"><strong>Привет, меня зовут Анастасия! 👋</strong></h1>
 
 <p align="center">
-  <strong>Начинающий дата-аналитик</strong>
+  <strong> Аналитик данных </strong>
 
 ### 📌Немного о себе
 
