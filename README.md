@@ -29,6 +29,7 @@
 * Создаю интерактивные дашборды в **Power BI**.
 * Выполняю задачи с помощью сложных аналитических запросов на **SQL**.
 * Активно использую **Python** для исследовательского анализа данных, обработки и визуализации, применяя такие библиотеки, как:
+  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
